@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - player
+  - NPC
+  - Interaction
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 372015695
+    locked: 0
+  - name: Player
+    uniqueID: 4127650893
+    locked: 0
+  - name: NPC
+    uniqueID: 2836407977
+    locked: 0
+  - name: Wall
+    uniqueID: 822628761
     locked: 0
